@@ -7,6 +7,7 @@ public class MainClass {
 		System.out.println("hello");
 		System.out.println("Manzil first check in");
 		System.out.println("gand fat ri hai");
+		System.out.println("pass ho jaye");
 	}
 
 }
