@@ -9,6 +9,7 @@ public class MainClass {
 		System.out.println("gand fat ri hai");
 		System.out.println("pass ho jaye");
 		System.out.println("make the SDD first baaki bakchodi baat main");
+		System.out.println("ghanta");
 	}
 
 }
