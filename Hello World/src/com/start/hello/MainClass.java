@@ -8,6 +8,7 @@ public class MainClass {
 		System.out.println("Manzil first check in");
 		System.out.println("gand fat ri hai");
 		System.out.println("pass ho jaye");
+		System.out.println("make the SDD first baaki bakchodi baat main");
 	}
 
 }
